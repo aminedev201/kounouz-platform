@@ -1,0 +1,14 @@
+# Env files
+**/.env
+# node modules
+**/node_modules/
+# vendor (PHP)
+**/vendor/
+# Logs
+*.log
+# IDE files
+.vscode/
+.idea/
+# OS
+.DS_Store
+Thumbs.db
