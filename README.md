@@ -132,4 +132,4 @@ This project is licensed under the MIT License.
 ## ✨ Author
 
 **Amine Fakkar**
-GitHub: [@](https://github.com/aminedev201)
+GitHub: [@](https://github.com/aminedev201)aminedev201
